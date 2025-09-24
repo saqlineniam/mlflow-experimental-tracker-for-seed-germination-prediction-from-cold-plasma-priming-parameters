@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/saqli/Downloads/Cold Plasma/Cold Plasma/On seed params/Mlflow/mlruns/344672109322356544/4f1b188e441b4987b576c19f6d1daee6/artifacts
+end_time: 1758674838654
+entry_point_name: ''
+experiment_id: '344672109322356544'
+lifecycle_stage: active
+run_id: 4f1b188e441b4987b576c19f6d1daee6
+run_name: uplift_et_20250924_064418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758674660958
+status: 3
+tags: []
+user_id: saqli

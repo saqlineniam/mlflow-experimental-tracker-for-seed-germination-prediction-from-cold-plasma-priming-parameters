@@ -1,0 +1,10 @@
+name: cp_uplift_et
+conda_env: ../env/conda.yaml
+entry_points:
+  train:
+    parameters:
+      train: {type: str, default: ../data/train.xlsx}
+      external: {type: str, default: ../data/external.xlsx}
+      register: {type: bool, default: false}
+    command: >
+      python -m src.train --train_xlsx {train} --external_xlsx {external} --register {register}

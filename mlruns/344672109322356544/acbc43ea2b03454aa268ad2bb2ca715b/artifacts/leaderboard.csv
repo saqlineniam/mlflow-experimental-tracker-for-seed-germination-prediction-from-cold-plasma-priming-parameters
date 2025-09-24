@@ -1,0 +1,2 @@
+train_RMSE,train_MAE,train_MAPE,train_R2,test_RMSE,test_MAE,test_MAPE,test_R2,model__max_depth,model__min_samples_leaf,model__min_samples_split,model__n_estimators
+1.4110762830352703,0.8962191134364461,3816380018.89336,0.9844326008660608,3.018135443317777,2.4632092795264255,3752323205.9253416,0.9294635956855245,,2,4,400

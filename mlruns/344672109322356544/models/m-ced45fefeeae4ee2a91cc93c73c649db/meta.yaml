@@ -1,0 +1,11 @@
+artifact_location: file:///C:/Users/saqli/Downloads/Cold Plasma/Cold Plasma/On seed
+  params/Mlflow/mlruns/344672109322356544/models/m-ced45fefeeae4ee2a91cc93c73c649db/artifacts
+creation_timestamp: 1758674733867
+experiment_id: '344672109322356544'
+last_updated_timestamp: 1758674814204
+model_id: m-ced45fefeeae4ee2a91cc93c73c649db
+model_type: null
+name: model
+source_run_id: 9470014dac6044768e715e06a6f332c2
+status: 2
+status_message: null

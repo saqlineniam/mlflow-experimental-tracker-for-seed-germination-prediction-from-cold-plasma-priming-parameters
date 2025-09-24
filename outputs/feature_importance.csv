@@ -1,0 +1,18 @@
+feature,importance
+power (w),0.07248377906828522
+plasma time,0.03050200599909524
+voltage (kV),0.016935277476303547
+power (w)^2,0.12513521107328715
+power (w) plasma time,0.031155286495338063
+power (w) voltage (kV),0.0751705052322154
+plasma time^2,0.027356725852410422
+plasma time voltage (kV),0.03331641329269708
+voltage (kV)^2,0.016157981656086902
+base germination rate,0.14421851070975175
+base germination index,0.14424714321132345
+base germination potential,0.08820565871258408
+weight of each seed (gr),0.0411371459231929
+gas flow rate (L/min),0.025326332819710223
+temperature,0.02643662617019561
+germination days,0.03598961295279636
+growing temp,0.06622578335472655

@@ -1,0 +1,19 @@
+aliases: []
+creation_timestamp: 1758674837840
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1758674837840
+metrics: null
+model_id: m-40a7baceeb3d43efa95d53afdd0126e4
+name: cp_uplift_et
+params: null
+run_id: 4f1b188e441b4987b576c19f6d1daee6
+run_link: null
+source: models:/m-40a7baceeb3d43efa95d53afdd0126e4
+status: READY
+status_message: null
+storage_location: file:///C:/Users/saqli/Downloads/Cold Plasma/Cold Plasma/On seed
+  params/Mlflow/mlruns/344672109322356544/models/m-40a7baceeb3d43efa95d53afdd0126e4/artifacts
+user_id: null
+version: 2

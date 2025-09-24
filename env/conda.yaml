@@ -1,0 +1,17 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - mlflow
+  - matplotlib
+  - xgboost
+  - openpyxl
+  - packaging
+  - joblib
+  - pip
+  - pip:
+      - mlflow
