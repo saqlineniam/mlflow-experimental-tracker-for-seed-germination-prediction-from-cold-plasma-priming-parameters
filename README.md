@@ -107,7 +107,7 @@ If you pass `--register true`, the trained model will be registered under the ML
 
 If you use this pipeline in your research, please cite as:
 
-> "This work used the CP_Uplift_ET MLflow pipeline (https://github.com/your-org/cp_uplift_et), an open-source framework for reproducible uplift modeling under cold plasma seed priming."
+> "This work used the CP_Uplift_ET MLflow pipeline (https://github.com/saqlineniam/mlflow-experimental-tracker-for-seed-germination-prediction-from-cold-plasma-priming-parameters), an open-source framework for reproducible uplift modeling under cold plasma seed priming."
 
 ---
 
